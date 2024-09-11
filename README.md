@@ -1,5 +1,5 @@
 > [!NOTE]
-> This is a reproduction of the famous game **Flappy bird**.
+> This is a reproduction of the famous game **Flappy bird**.<br>
 > Credit to the owner ©️.
 
 - Press *space* or *left click* to fly.<br>
